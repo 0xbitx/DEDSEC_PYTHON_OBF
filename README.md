@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="banner.png" width="50%" height="50%">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width="30%" height="30%">
 </p>
 
 <h1 align="center"> DEDSEC_PYTHON_OBF </h1>
